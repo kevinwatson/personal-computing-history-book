@@ -1,6 +1,6 @@
-# Computer Processory History
+# Personal Computing History
 
-## A History of the Computer Processor
+## A History of Personal Computing
 
 ### Kevin Watson
 
