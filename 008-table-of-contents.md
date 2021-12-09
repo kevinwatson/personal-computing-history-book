@@ -10,10 +10,9 @@
   * Resources
 * [Chapter 3 - GPU Architectures](040-chapter-03.md)
   * Resources
-* [Chapter 4 - Apple Silicone](050-chapter-04.md)
-  * Purchase
-  * Agricultural Uses
-  * Out of Town Visitor
+* [Chapter 4 - Intel](050-chapter-04.md)
+  * Resources
+* [Chapter 5 - Apple silicon](060-chapter-05.md)
   * Resources
 * [Chapter 6 - Summary](070-chapter-06.md)
 
