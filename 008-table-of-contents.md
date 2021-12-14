@@ -12,7 +12,7 @@
   * Resources
 * [Chapter 4 - Intel](050-chapter-04.md)
   * Resources
-* [Chapter 5 - Apple silicon](060-chapter-05.md)
+* [Chapter 5 - Apple Silicon](060-chapter-05.md)
   * Resources
 * [Chapter 6 - Summary](070-chapter-06.md)
 
