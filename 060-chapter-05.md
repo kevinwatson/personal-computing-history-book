@@ -36,8 +36,28 @@
 * Performance controller
 * Advanced silicon packaging
 
+### M1 Pro
+
+* 200GB/s memory bandwidth
+* 32GB unified memory
+* Dedicated ProRes accelerator
+* 33.7 billion transistors
+* 10 core CPU
+* 8 high-performance cores
+* 2 high-efficiency cores
+* 70% faster than M1
+* 16 core GPU
+* 16 core Neural Engine
+
 ### M1 Max
 
+* 400GB/s memory bandwidth
+* 64GB unified memory
+* Dedicated ProRes accelerator
+* 57 billion transistors
+* 10 core CPU
+* 32 core GPU
+* 16 core Neural Engine
 
 ### M1 Ultra
 
@@ -71,5 +91,6 @@
 * https://www.apple.com/newsroom/2020/06/apple-announces-mac-transition-to-apple-silicon/
 * https://youtu.be/5AwdkGKmZ0I
 * https://www.youtube.com/watch?v=q5D55G7Ejs8
+* https://www.apple.com/newsroom/2021/10/introducing-m1-pro-and-m1-max-the-most-powerful-chips-apple-has-ever-built/
 
 [Next >>](070-chapter-06.md)
