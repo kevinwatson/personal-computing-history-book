@@ -61,6 +61,14 @@
 
 ### M1 Ultra
 
+* 114 billion transistors
+* 128 GB unified memory
+* 20 core CPU
+* 64 core GPU
+* 32 core Neural Engine
+* Composed of 2 M1 Max boards that appears to be one chip by the operating system
+* 800GB/s memory bandwidth
+
 ## M2
 
 * Maxmimizing performance while minimizing power consumption
@@ -92,5 +100,6 @@
 * https://youtu.be/5AwdkGKmZ0I
 * https://www.youtube.com/watch?v=q5D55G7Ejs8
 * https://www.apple.com/newsroom/2021/10/introducing-m1-pro-and-m1-max-the-most-powerful-chips-apple-has-ever-built/
+* https://www.apple.com/newsroom/2022/03/apple-unveils-m1-ultra-the-worlds-most-powerful-chip-for-a-personal-computer/
 
 [Next >>](070-chapter-06.md)
