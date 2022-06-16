@@ -10,7 +10,6 @@
 * 16 billion transistors
 * 8 core CPU has 2 types of cores: 4 high-performance and 4 high-efficiency
 * 8-core GPU
-
 * Advanced power management
 * High-bandwidth caches
 * Croptography acceleration
@@ -35,6 +34,9 @@
 * Gen 4 PCI Express
 * Performance controller
 * Advanced silicon packaging
+* Available in the MacBook Air
+* Available in the iMac
+* Available in the Mac mini
 
 ### M1 Pro
 
@@ -48,6 +50,7 @@
 * 70% faster than M1
 * 16 core GPU
 * 16 core Neural Engine
+* Available in the 2021 14 and 16-inch MacBook Pros
 
 ### M1 Max
 
@@ -58,6 +61,7 @@
 * 10 core CPU
 * 32 core GPU
 * 16 core Neural Engine
+* Available in the Mac Studio
 
 ### M1 Ultra
 
@@ -68,6 +72,7 @@
 * 32 core Neural Engine
 * Composed of 2 M1 Max boards that appears to be one chip by the operating system
 * 800GB/s memory bandwidth
+* Available in the Mac Studio
 
 ## M2
 
@@ -92,7 +97,8 @@
 * ProRes encode and decode
 * 6k external display support
 * 50% more memory bandwidth
-
+* Available in the 2022 MacBook Air
+* Available in the 2022 MacBook Pro 13-inch
 
 ## Resources
 
