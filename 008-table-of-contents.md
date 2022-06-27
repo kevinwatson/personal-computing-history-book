@@ -1,7 +1,8 @@
 ### TABLE OF CONTENTS
 
 * [Chapter 1 - Computing](020-chapter-01.md)
-  * Alan Turing
+  * Introduction
+  * Personal Computing Devices
   * Resources
 * [Chapter 2 - CPU Architectures](030-chapter-02.md)
   * 8086
