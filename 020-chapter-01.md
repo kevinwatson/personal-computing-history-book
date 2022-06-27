@@ -30,10 +30,14 @@ For this discussion, we'll use the term 'Personal Computing' to describe computi
   * Roku
   * Comcast
   * Amazon Fire TV
+  * Televisions
 * Radio
   * AM/FM
   * Amateur (ham)
-* Smart Assistants
+* Smart Homes
+  * Smart Assistants
+  * Security Systems
+  * Home Automation
 
 ### Portable
 
@@ -52,7 +56,7 @@ For this discussion, we'll use the term 'Personal Computing' to describe computi
 
 ### Hybrid
 
-* Nintendo
+* Nintendo Switch
 
 ## Resources
 
