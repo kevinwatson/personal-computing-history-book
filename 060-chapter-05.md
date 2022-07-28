@@ -1,5 +1,21 @@
 ### Chapter 5 - Apple Silicon
 
+Apple has sold computers that have run on a variety of hardware architectures. PowerPC, Intel x86 and now Apple Silicon. Apple has always tightly-coupled their hardware and operating system, stating that this provides the best user experience.
+
+Since the iPhone was introduced in 2007, Apple has been designing and selling both the hardware and software for their consumer devices. When a company like Apple keeps control of both the hardware and software, their teams can coordinate their efforts to create a device that is low power/battery efficient and also performant when needed.
+
+In 2020 Apple introduced Apple Silicon. Apple computers had been running on Intel CPUs since 2006. The introduction of Apple Silicon was met with praise, even more so after consumers got their hands on them and benchmarked them against their older Intel counterparts.
+
+To the everyday Mac user, Apple Silicon brings low power consumption (longer life fot laptops and less fan noise for desktops), faster processing, quicker response times when opening and using apps. The M1 chip was initially available in the lowest-end laptop and desktop models. For power users, video rendering, machine learning and other high-memory, CPU and GPU tasks could now be accomplished in nearly half the time on cheaper hardware.
+
+The performance gains in Apple Silicon are because of an architecture design where the components have been combined on a single chip, known as system on a chip (SoC). In contrast, most computers have separate CPU, memory and hard drive, housed on a motherboard or logicboard. The upside of SoC is that data has less distance to travel between the memory and CPU which translates into faster speeds. The downside is that none of the components can be upgraded on a SoC.
+
+Device makers have been making SoC devices for many years. Personal computing devices like smart phones and tablets have pushed the design of SoCs for more performance and better efficiency.
+
+Apple has taken its mobile device SoC architecture and in 2020 released a ramped-up version for macOS, its desktop operating system. Based on their mobile hardware designs, the M1 and M2 chip designs are based on the Apple A14 Bionic SoC, which powers the iPhone 12 smart phone.
+
+The M1 chip is currently available in the iPad Pro and a number of MacBooks and Mac desktops.
+
 ## M1
 
 * System on a chip (SoC)
@@ -102,6 +118,7 @@
 
 ## Resources
 
+* https://en.wikipedia.org/wiki/System_on_a_chip
 * https://www.apple.com/newsroom/2020/06/apple-announces-mac-transition-to-apple-silicon/
 * https://youtu.be/5AwdkGKmZ0I
 * https://www.youtube.com/watch?v=q5D55G7Ejs8
