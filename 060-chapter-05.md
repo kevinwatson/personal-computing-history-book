@@ -14,17 +14,20 @@ Device makers have been making SoC devices for many years. Personal computing de
 
 Apple has taken its mobile device SoC architecture and in 2020 released a ramped-up version for macOS, its desktop operating system. Based on their mobile hardware designs, the M1 and M2 chip designs are based on the Apple A14 Bionic SoC, which powers the iPhone 12 smart phone.
 
-The M1 chip is currently available in the iPad Pro and a number of MacBooks and Mac desktops.
+The M lines detailed below are Apple's SoC strategy for devices that run both macOS and iPadOS.
 
 ## M1
 
-* System on a chip (SoC)
-* First for the mac.
-* Combines CPU, IO, memory, Thunderbolt controller and Apple T2 security chips.
-* Unified memory architecture - high bandwidth, low latency.
-* 5 nanometer
-* 16 billion transistors
-* 8 core CPU has 2 types of cores: 4 high-performance and 4 high-efficiency
+The M1 chip is available in the iPad Pro and a number of MacBooks and Mac desktops. The introductory Apple SoC platform, it combines all of the components below into a single chip.
+
+* Central Processing Unit (CPU)
+* Thunderbolt controller - 
+* T2 security chip - securely stores fingerprint data and secure boot options
+* Memory - Random Access Memory (RAM) is now on the chip and is not upgradable
+* Unified memory architecture - high bandwidth and low latency translates to a faster device
+* 5 nanometer - the latest process for creating faster CPUs that use less electricity
+* 16 billion transistors in the CPU
+* The CPU is split into 2 types of cores: 4 high-performance and 4 high-efficiency
 * 8-core GPU
 * Advanced power management
 * High-bandwidth caches
