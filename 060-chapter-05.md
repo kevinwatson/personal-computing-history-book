@@ -10,7 +10,7 @@ To the everyday Mac user, Apple Silicon brings low power consumption (longer lif
 
 The performance gains in Apple Silicon are because of an architecture design where the components have been combined on a single chip, known as system on a chip (SoC). In contrast, most computers have separate CPU, memory and hard drive, housed on a motherboard or logicboard. The upside of SoC is that data has less distance to travel between the memory and CPU which translates into faster speeds. The downside is that none of the components can be upgraded on a SoC.
 
-Device makers have been making SoC devices for many years. Personal computing devices like smart phones and tablets have pushed the design of SoCs for more performance and better efficiency.
+Device makers have been making SoC devices for many years. Personal computing devices like smart phones and tablets have pushed the design of SoCs for more performance and better efficiency. Apple's approach with Apple Silicon is to provide speciailized chips for common tasks, combine them on a single chip and the result is both speed and efficiency.
 
 Apple has taken its mobile device SoC architecture and in 2020 released a ramped-up version for macOS, its desktop operating system. Based on their mobile hardware designs, the M1 and M2 chip designs are based on the Apple A14 Bionic SoC, which powers the iPhone 12 smart phone.
 
@@ -18,23 +18,22 @@ The M lines detailed below are Apple's SoC strategy for devices that run both ma
 
 ## M1
 
-The M1 chip is available in the iPad Pro and a number of MacBooks and Mac desktops. The introductory Apple SoC platform, it combines all of the components below into a single chip.
+The [M1 chip](https://www.apple.com/newsroom/2020/11/apple-unleashes-m1/) is available in the iPad Pro and a number of MacBooks and Mac desktops. The introductory Apple SoC platform, it combines all of the components below into a single chip.
 
 * Central Processing Unit (CPU)
 * Thunderbolt controller - 
-* T2 security chip - securely stores fingerprint data and secure boot options
-* Memory - Random Access Memory (RAM) is now on the chip and is not upgradable
+* [T2 security chip](https://support.apple.com/guide/security/hardware-security-overview-secf020d1074/1/web/1) - securely stores fingerprint data and secure boot options
+* Memory - Random Access Memory (RAM) is now part of the chip and is not upgradable
 * Unified memory architecture - high bandwidth and low latency translates to a faster device
 * 5 nanometer - the latest process for creating faster CPUs that use less electricity
 * 16 billion transistors in the CPU
-* The CPU is split into 2 types of cores: 4 high-performance and 4 high-efficiency
-* 8-core GPU
-* Advanced power management
-* High-bandwidth caches
-* Croptography acceleration
-* High-performance unified memory
-* Machine learning accelerators
-* High-efficiency CPU cores
+* The CPU is split into 2 types of cores: 4 high-performance and 4 high-efficiency. The high-performance cores are used for CPU-intensive tasks and use more power (and drain a laptop battery faster), while the high-efficiency cores are used for less intensive tasks like browsing the web and use less power (and less battery)
+* 8-core GPU - used for video playback and encoding
+* [Advanced power management](https://www.apple.com/newsroom/2021/10/introducing-m1-pro-and-m1-max-the-most-powerful-chips-apple-has-ever-built/) - allocates tasks between the performance and efficiency CPU cores
+* High-bandwidth caches - allows data to move quickly between the CPU, GPU, RAM and solid state drive
+* Cryptography acceleration - speeds up security related tasks
+* [High-performance unified memory](https://www.macobserver.com/analysis/understanding-apples-unified-memory-architecture/) - unified means shared memory, so instead of data being transferred from a CPU's memory bank to a GPU's memory bank and then back again, when both the CPU and GPU share the same memory banks, less time and bandwidth is required to process the task
+* Machine learning accelerators - speeds up tasks like voice recognition and image processing
 * Advanced display engine
 * HDR video processor
 * Always-on processor
