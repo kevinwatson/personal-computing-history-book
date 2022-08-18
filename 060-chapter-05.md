@@ -21,7 +21,7 @@ The M lines detailed below are Apple's SoC strategy for devices that run both ma
 The [M1 chip](https://www.apple.com/newsroom/2020/11/apple-unleashes-m1/) is available in the iPad Pro and a number of MacBooks and Mac desktops. The introductory Apple SoC platform, it combines all of the components below into a single chip.
 
 * Central Processing Unit (CPU)
-* Thunderbolt controller - 
+* [Thunderbolt controller](https://support.apple.com/guide/mac-help/about-the-thunderbolt-ports-mh35952/mac) - interface between external devices like a display or external hard drive
 * [T2 security chip](https://support.apple.com/guide/security/hardware-security-overview-secf020d1074/1/web/1) - securely stores fingerprint data and secure boot options
 * Memory - Random Access Memory (RAM) is now part of the chip and is not upgradable
 * Unified memory architecture - high bandwidth and low latency translates to a faster device
@@ -34,16 +34,15 @@ The [M1 chip](https://www.apple.com/newsroom/2020/11/apple-unleashes-m1/) is ava
 * Cryptography acceleration - speeds up security related tasks
 * [High-performance unified memory](https://www.macobserver.com/analysis/understanding-apples-unified-memory-architecture/) - unified means shared memory, so instead of data being transferred from a CPU's memory bank to a GPU's memory bank and then back again, when both the CPU and GPU share the same memory banks, less time and bandwidth is required to process the task
 * Machine learning accelerators - speeds up tasks like voice recognition and image processing
-* Advanced display engine
-* HDR video processor
-* Always-on processor
-* High-quality image signal processor
-* High-performance CPU cores
-* Low-power design
-* Secure Enclave
-* High-performance NVMe storage
-* Low-power video playback
-* High-performance GPU
+* Advanced display engine - high-performance external display management
+* [HDR video processor](https://support.apple.com/en-us/HT210980) - dedicated chip for high dynamic range (HDR) video support
+* [Always-on processor (AOP)](https://machinelearning.apple.com/research/hey-siri) - allows for background processing while in a near-suspended state, for example to allow Siri voice recognition to listen and wake the computer
+* High-quality image signal processor - dedicated processor for real-time video capture
+* Low-power design - designed for lower power consumption
+* [Secure Enclave](https://support.apple.com/guide/security/secure-enclave-sec59b0b31ff/web) - used to store and process sensitive user data
+* High-performance NVMe storage - nonvolatile memory express (NVMe) is a protocol that doesn't require a separate hardware controller to communicate with the CPU like other storage devices
+* Low-power video playback - dedicated video decoding chips are used for video playback to use less power
+* High-performance GPU - 
 * High-performance video editing
 * Thunderbolt/USB 4 controller
 * High-efficiency audio processor
