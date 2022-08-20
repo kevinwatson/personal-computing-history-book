@@ -32,7 +32,7 @@ Table 5-1
 | The CPU is split into 2 types of cores | 4 high-performance and 4 high-efficiency. The high-performance cores are used for CPU-intensive tasks and use more power (and drain a laptop battery faster), while the high-efficiency cores are used for less intensive tasks like browsing the web and use less power (and less battery) | Yes |
 | 8-core GPU | Used for video playback and encoding | No |
 | [Advanced power management](https://www.apple.com/newsroom/2021/10/introducing-m1-pro-and-m1-max-the-most-powerful-chips-apple-has-ever-built/) | Allocates tasks between the performance and efficiency CPU cores | Yes |
-| High-bandwidth caches | Allows data to move quickly between the CPU, GPU, RAM and solid state drive | Yes |
+| High-bandwidth caches | Faster caches for the CPU, GPU, RAM and solid state drive | Yes |
 | Cryptography acceleration | Speeds up security related tasks | No |
 | [High-performance unified memory](https://www.macobserver.com/analysis/understanding-apples-unified-memory-architecture/) | Unified means shared memory, so instead of data being transferred from a CPU's memory bank to a GPU's memory bank and then back again, when both the CPU and GPU share the same memory banks, less time and bandwidth is required to process the task | Yes |
 | Machine learning accelerators | Speeds up tasks like voice recognition and image processing | Yes |
