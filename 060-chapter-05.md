@@ -26,7 +26,6 @@ Table 5-1
 |---|---|---|
 | [Thunderbolt controller](https://support.apple.com/guide/mac-help/about-the-thunderbolt-ports-mh35952/mac) | Interface between external devices like a display or external hard drive | No |
 | [T2 security chip](https://support.apple.com/guide/security/hardware-security-overview-secf020d1074/1/web/1) | Securely stores fingerprint data and secure boot options | No |
-| Memory | Random Access Memory (RAM) is now part of the chip and is not upgradable | No |
 | Unified memory architecture | High bandwidth and low latency translates to a faster device | Yes |
 | [5 nanometer](https://www.forbes.com/sites/linleygwennap/2020/10/12/apple-moores-law-is-running-out/?sh=7ed55676529a) | The latest process for creating faster CPUs that use less electricity | Yes |
 | 16 billion transistors in the CPU | | Yes |
