@@ -26,7 +26,7 @@ Table 5-1
 |---|---|---|
 | [Thunderbolt controller](https://support.apple.com/guide/mac-help/about-the-thunderbolt-ports-mh35952/mac) | Interface between external devices like a display or external hard drive | No |
 | [T2 security chip](https://support.apple.com/guide/security/hardware-security-overview-secf020d1074/1/web/1) | Securely stores fingerprint data and secure boot options | No |
-| Unified memory architecture | High bandwidth and low latency translates to a faster device | Yes |
+| Unified memory architecture (UMA) | High bandwidth and low latency translates to a faster device | Yes |
 | [5 nanometer](https://www.forbes.com/sites/linleygwennap/2020/10/12/apple-moores-law-is-running-out/?sh=7ed55676529a) | The latest process for creating faster CPUs that use less electricity | Yes |
 | 16 billion transistors in the CPU | | Yes |
 | The CPU is split into 2 types of cores | 4 high-performance and 4 high-efficiency. The high-performance cores are used for CPU-intensive tasks and use more power (and drain a laptop battery faster), while the high-efficiency cores are used for less intensive tasks like browsing the web and use less power (and less battery) | Yes |
