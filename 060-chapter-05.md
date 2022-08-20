@@ -24,7 +24,6 @@ Table 5-1
 
 |Component/FeatureDescription|New in Silicon?|
 |---|---|---|
-
 |Central Processing Unit (CPU)|
 |[Thunderbolt controller](https://support.apple.com/guide/mac-help/about-the-thunderbolt-ports-mh35952/mac)|Interface between external devices like a display or external hard drive|
 |[T2 security chip](https://support.apple.com/guide/security/hardware-security-overview-secf020d1074/1/web/1)|Securely stores fingerprint data and secure boot options|
