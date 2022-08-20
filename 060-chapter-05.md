@@ -22,39 +22,38 @@ The [M1 chip](https://www.apple.com/newsroom/2020/11/apple-unleashes-m1/) is ava
 
 Table 5-1
 
-| Component/Feature | Description | New? |
+| Component/Feature | Description | New to Mac? |
 |---|---|---|
-| Central Processing Unit (CPU) |
-| [Thunderbolt controller](https://support.apple.com/guide/mac-help/about-the-thunderbolt-ports-mh35952/mac) | Interface between external devices like a display or external hard drive |
-| [T2 security chip](https://support.apple.com/guide/security/hardware-security-overview-secf020d1074/1/web/1) | Securely stores fingerprint data and secure boot options |
-| Memory | Random Access Memory (RAM) is now part of the chip and is not upgradable |
-| Unified memory architecture | High bandwidth and low latency translates to a faster device |
-| 5 nanometer | The latest process for creating faster CPUs that use less electricity |
-| 16 billion transistors in the CPU |
-| The CPU is split into 2 types of cores | 4 high-performance and 4 high-efficiency. The high-performance cores are used for CPU-intensive tasks and use more power (and drain a laptop battery faster), while the high-efficiency cores are used for less intensive tasks like browsing the web and use less power (and less battery) |
-| 8-core GPU|Used for video playback and encoding |
-| [Advanced power management](https://www.apple.com/newsroom/2021/10/introducing-m1-pro-and-m1-max-the-most-powerful-chips-apple-has-ever-built/) | Allocates tasks between the performance and efficiency CPU cores |
-| High-bandwidth caches | Allows data to move quickly between the CPU, GPU, RAM and solid state drive |
-| Cryptography acceleration | Speeds up security related tasks |
-| [High-performance unified memory](https://www.macobserver.com/analysis/understanding-apples-unified-memory-architecture/) | Unified means shared memory, so instead of data being transferred from a CPU's memory bank to a GPU's memory bank and then back again, when both the CPU and GPU share the same memory banks, less time and bandwidth is required to process the task|
-| Machine learning accelerators | Speeds up tasks like voice recognition and image processing |
-| Advanced display engine | High-performance external display management |
-| [HDR video processor](https://support.apple.com/en-us/HT210980) | Dedicated chip for high dynamic range (HDR) video support |
-| [Always-on processor (AOP)](https://machinelearning.apple.com/research/hey-siri) | Allows for background processing while in a near-suspended state, for example to allow Siri voice recognition to listen and wake the computer |
-| High-quality image signal processor|Dedicated processor for real-time video capture |
-| Low-power design | Designed for lower power consumption, beneficial for both battery powered and non-battery powered systems |
-| [Secure Enclave](https://support.apple.com/guide/security/secure-enclave-sec59b0b31ff/web)|Used to store and process sensitive user data |
-| High-performance NVMe storage | Nonvolatile memory express (NVMe) is a protocol that doesn't require a separate hardware controller to communicate with the CPU like other storage devices |
-| Low-power video playback | Dedicated video decoding chips are used for video playback to use less power |
-| High-performance GPU |
-| High-performance video editing |
-| Thunderbolt/USB 4 controller |
-| High-efficiency audio processor |
-| 16-core Neural Engine - 11 trillion operations per second |
-| HDR imaging |
-| Gen 4 PCI Express |
-| Performance controller |
-| Advanced silicon packaging |
+| [Thunderbolt controller](https://support.apple.com/guide/mac-help/about-the-thunderbolt-ports-mh35952/mac) | Interface between external devices like a display or external hard drive | No |
+| [T2 security chip](https://support.apple.com/guide/security/hardware-security-overview-secf020d1074/1/web/1) | Securely stores fingerprint data and secure boot options | No |
+| Memory | Random Access Memory (RAM) is now part of the chip and is not upgradable | No |
+| Unified memory architecture | High bandwidth and low latency translates to a faster device | Yes |
+| [5 nanometer](https://www.forbes.com/sites/linleygwennap/2020/10/12/apple-moores-law-is-running-out/?sh=7ed55676529a) | The latest process for creating faster CPUs that use less electricity | Yes |
+| 16 billion transistors in the CPU | | Yes |
+| The CPU is split into 2 types of cores | 4 high-performance and 4 high-efficiency. The high-performance cores are used for CPU-intensive tasks and use more power (and drain a laptop battery faster), while the high-efficiency cores are used for less intensive tasks like browsing the web and use less power (and less battery) | Yes |
+| 8-core GPU | Used for video playback and encoding | No |
+| [Advanced power management](https://www.apple.com/newsroom/2021/10/introducing-m1-pro-and-m1-max-the-most-powerful-chips-apple-has-ever-built/) | Allocates tasks between the performance and efficiency CPU cores | Yes |
+| High-bandwidth caches | Allows data to move quickly between the CPU, GPU, RAM and solid state drive | Yes |
+| Cryptography acceleration | Speeds up security related tasks | No |
+| [High-performance unified memory](https://www.macobserver.com/analysis/understanding-apples-unified-memory-architecture/) | Unified means shared memory, so instead of data being transferred from a CPU's memory bank to a GPU's memory bank and then back again, when both the CPU and GPU share the same memory banks, less time and bandwidth is required to process the task | Yes |
+| Machine learning accelerators | Speeds up tasks like voice recognition and image processing | Yes |
+| [Advanced display engine](https://www.notebookcheck.net/12-9-inch-iPad-Pro-mini-LED-display-is-as-custom-as-its-M1-SoC-but-early-issues-have-emerged.540770.0.html) | High-performance display management | Yes |
+| [HDR video processor](https://support.apple.com/en-us/HT210980) | Dedicated chip for high dynamic range (HDR) video support | No |
+| [Always-on processor (AOP)](https://machinelearning.apple.com/research/hey-siri) | Allows for background processing while in a near-suspended state, for example to allow Siri voice recognition to listen and wake the computer | Yes |
+| High-quality image signal processor | Dedicated processor for real-time video capture | No |
+| Low-power design | Designed for lower power consumption, beneficial for both battery powered and non-battery powered systems | Yes |
+| [Secure Enclave](https://support.apple.com/guide/security/secure-enclave-sec59b0b31ff/web) | Used to store and process sensitive user data | No |
+| High-performance NVMe storage | Nonvolatile memory express (NVMe) is a protocol that doesn't require a separate hardware controller to communicate with the CPU like other storage devices | No |
+| Low-power video playback | Dedicated video decoding chips are used for video playback to use less power | Yes |
+| High-performance GPU | | Yes |
+| High-performance video editing | | Yes |
+| Thunderbolt/USB 4 controller | | No |
+| High-efficiency audio processor | | Yes |
+| 16-core Neural Engine - 11 trillion operations per second | | Yes |
+| HDR imaging | | No |
+| Gen 4 PCI Express | | No |
+| Performance controller | | Yes |
+| Advanced silicon packaging | | Yes |
 
 
 * Available in the MacBook Air
