@@ -18,9 +18,13 @@ The M lines detailed below are Apple's SoC strategy for devices that run both ma
 
 ## M1
 
-The [M1 chip](https://www.apple.com/newsroom/2020/11/apple-unleashes-m1/) is available in the iPad Pro and a number of MacBooks and Mac desktops. The introductory Apple SoC platform, it combines all of the components below into a single chip.
+The [M1 chip](https://www.apple.com/newsroom/2020/11/apple-unleashes-m1/) is available in the iPad Pro and a number of MacBooks and Mac desktops. The introductory Apple SoC platform, it combines all of the components in table 5-1 below into a single chip.
 
-Table 5-1
+Soon after the M1 chip was introduced, consumers could purchase a 2020 Macbook Air, iMac or Mac Mini with the M1. With its newer features, the M1's low price, low power consumption and fast performance for many tasks impressed critics and users alike.
+
+Below is a table of features built into the M1 chip.
+
+_Table 5-1_
 
 | Component/Feature | Description | New to Mac? |
 |---|---|---|
@@ -29,7 +33,7 @@ Table 5-1
 | Unified memory architecture (UMA) | High bandwidth and low latency translates to a faster device | Yes |
 | [5 nanometer](https://www.forbes.com/sites/linleygwennap/2020/10/12/apple-moores-law-is-running-out/?sh=7ed55676529a) | The latest process for creating faster CPUs that use less electricity | Yes |
 | 16 billion transistors in the CPU | | Yes |
-| The CPU is split into 2 types of cores | 4 high-performance and 4 high-efficiency. The high-performance cores are used for CPU-intensive tasks and use more power (and drain a laptop battery faster), while the high-efficiency cores are used for less intensive tasks like browsing the web and use less power (and less battery) | Yes |
+| 2 types of CPU cores | 4 high-performance and 4 high-efficiency. The high-performance cores are used for CPU-intensive tasks and use more power (and drain a laptop battery faster), while the high-efficiency cores are used for less intensive tasks like browsing the web and use less power (and less battery) | Yes |
 | 8-core GPU | Used for video playback and encoding | No |
 | [Advanced power management](https://www.apple.com/newsroom/2021/10/introducing-m1-pro-and-m1-max-the-most-powerful-chips-apple-has-ever-built/) | Allocates tasks between the performance and efficiency CPU cores | Yes |
 | High-bandwidth caches | Faster caches for the CPU, GPU, RAM and solid state drive | Yes |
@@ -42,10 +46,10 @@ Table 5-1
 | High-quality image signal processor | Dedicated processor for real-time video capture | No |
 | Low-power design | Designed for lower power consumption, beneficial for both battery powered and non-battery powered systems | Yes |
 | [Secure Enclave](https://support.apple.com/guide/security/secure-enclave-sec59b0b31ff/web) | Used to store and process sensitive user data | No |
-| High-performance NVMe storage | Nonvolatile memory express (NVMe) is a protocol that doesn't require a separate hardware controller to communicate with the CPU like other storage devices | No |
+| High-performance NVMe storage | Nonvolatile memory express (NVMe) is a protocol that doesn't require a separate hardware controller to communicate with the CPU | No |
 | Low-power video playback | Dedicated video decoding chips are used for video playback to use less power | Yes |
-| High-performance GPU | | Yes |
-| High-performance video editing | | Yes |
+| High-performance GPU | Used for rendering video, 3D gaming, and machine learning tasks | Yes |
+| High-performance video editing | A result of shared memory, high-bandwidth caches, NVMe storage and an 8-core high-performance GPU | Yes |
 | Thunderbolt/USB 4 controller | | No |
 | High-efficiency audio processor | | Yes |
 | 16-core Neural Engine - 11 trillion operations per second | | Yes |
@@ -54,72 +58,74 @@ Table 5-1
 | Performance controller | | Yes |
 | Advanced silicon packaging | | Yes |
 
-
-* Available in the MacBook Air
-* Available in the iMac
-* Available in the Mac mini
-
 ### M1 Pro
 
-* 200GB/s memory bandwidth
-* 32GB unified memory
-* Dedicated ProRes accelerator
-* 33.7 billion transistors
-* 10 core CPU
-* 8 high-performance cores
-* 2 high-efficiency cores
-* 70% faster than M1
-* 16 core GPU
-* 16 core Neural Engine
-* Available in the 2021 14 and 16-inch MacBook Pros
+The M1 Pro system on a chip was announced ??? and was made available in the 2021 14 and 16-inch MacBook Pro laptops. It provides additional memory bandwidth, twice as many transistors, more high-performance CPU cores and twice as many GPU cores as the original M1. Apple reported that the M1 Pro is up to 70% faster than the M1 for many common tasks.
+
+_Table 5-2_
+
+| Component/Feature | Description |
+|---|---|
+| 200GB/s memory bandwidth | Bigger pipes for data transfer between RAM and the CPU and GPU cores |
+| 32GB unified memory | Double the amount available in the M1 (M1 x 2) |
+| Dedicated ProRes accelerator | |
+| 33.7 billion transistors | M1 x 2 |
+| 10 core CPU | Two more high-performance cores than were available in the M1 |
+| 16 core GPU | M1 x 2 |
+| 16 core Neural Engine | Same as the M1 |
 
 ### M1 Max
 
-* 400GB/s memory bandwidth
-* 64GB unified memory
-* Dedicated ProRes accelerator
-* 57 billion transistors
-* 10 core CPU
-* 32 core GPU
-* 16 core Neural Engine
-* Available in the Mac Studio
+The M1 Max SoC was announced ??? and available for purchase in the 2022 Mac Studio desktop computer.
+
+_Table 5-3_
+
+| Component/Feature | Description |
+|---|---|
+| 400GB/s memory bandwidth | Double the amount available in the M1 Pro |
+| 64GB unified memory | M1 Pro x 2 |
+| Dedicated ProRes accelerator | |
+| 57 billion transistors | Nearly twice that of the M1 Pro |
+| 10 core CPU | Same as the M1 Pro |
+| 32 core GPU | M1 Pro x 2 |
+| 16 core Neural Engine | Same as the M1 |
+
 
 ### M1 Ultra
 
-* 114 billion transistors
-* 128 GB unified memory
-* 20 core CPU
-* 64 core GPU
-* 32 core Neural Engine
-* Composed of 2 M1 Max boards that appears to be one chip by the operating system
-* 800GB/s memory bandwidth
-* Available in the Mac Studio
+The M1 Ultra SoC was announced ??? and also available as an upgrade in the 2022 Mac Studio desktop computer. The M1 Ultra is comprised of two M1 Max SoCs that appear to the operating system to be a single chip.
+
+_Table 5-4_
+
+| Component/Feature | Description |
+|---|---|
+| 114 billion transistors | M1 Max x 2 |
+| 128 GB unified memory | M1 Max x 2 |
+| 20 core CPU | DM1 Max x 2 |
+| 64 core GPU | M1 Max x 2 |
+| 32 core Neural Engine | Same as the M1 Max |
+| 800GB/s memory bandwidth | M1 Max x 2 |
 
 ## M2
 
-* Maxmimizing performance while minimizing power consumption
-* Second generation 5 nm technology
-* 20 billion transistors
-* 100GB/s Unified Memory Bandwidth
-* Up to 24GB unified memory
-* 8 Core CPU
-* 4 High performance cores
-* 4 High efficiency cores
-* 18% better performance over M1
-* Up to 10 core GPU
-* Up to 25% better graphics performance than the M1
-* Secure Enclave
-* Neural Engine - 15.8 trillion operations/sec
-* Media engine
-* 18% faster CPU
-* 35% faster GPU
-* 40% faster neural engine
-* Up to 24 B LPDDR5 memory
-* ProRes encode and decode
-* 6k external display support
-* 50% more memory bandwidth
-* Available in the 2022 MacBook Air
-* Available in the 2022 MacBook Pro 13-inch
+The M2 SoC was introduced in ???. It's available for purchase in the 2022 MacBook Air and 2022 MacBook Pro 13-inch laptops. The M2 is the next generation of Apple's SoC with low power consumption, 18% faster CPU, 35% faster GPU, 40% faster neural engine, 50% more memory bandwidth, up to 25% better graphics performance, 18% better all around performance and higher resolution external display support.
+
+_Table 5-5_
+
+| Component/Feature | Description |
+|---|---|
+| Second generation 5 nm technology | |
+| 20 billion transistors | |
+| 100GB/s Unified Memory Bandwidth | |
+| Up to 24GB unified memory | |
+| 8 Core CPU | 4 high-performance and 4 efficiency cores |
+| Up to 10 core GPU | |
+| Secure Enclave | |
+| Neural Engine - 15.8 trillion operations/sec | |
+| Media engine | |
+| Up to 24 B LPDDR5 memory | |
+| ProRes encode and decode | |
+| 6k external display support | |
 
 ## Resources
 
