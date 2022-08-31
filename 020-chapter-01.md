@@ -4,11 +4,13 @@
 
 Computers were originally embraced by large businesses, governments and could fill a room. They were used to encrypt and decrypt messages during World War II. Businesses later embraced them to collect, store and process data to give them marketplace advantages.
 
-Hobbyists took an interest in the power of the transistor and helped bring it into the home. Computers are dumb machines without software. Software is the list of instructions that makes computer hardware useful. Hobbyists also started the software sharing revolution, in stark contrast to business software which was expensive and tightly controlled.
+Hobbyists took an interest in the power of the transistor and helped bring it into the home. Computers are dumb electrical machines without software. Software is the list of instructions that makes computer hardware useful. Hobbyists also started the software sharing revolution, in stark contrast to business software which was expensive and tightly controlled.
+
+Computing hardware and software has become commonplace in our modern world. Automobiles, billboards, smart phones, watches, home security, smart TVs, etc are all examples of computing devices that we interact with daily that are powered by computers. 
 
 ## Personal Computing Devices
 
-For this discussion, we'll use the term 'Personal Computing' to describe computing hardware for personal and entertainment use, in contrast to business use. Software often changes more more quickly than hardware, so we'll first focus on consumer hardware and then spend some time discussing the software that was originally shipped with the hardware.
+For this discussion, we'll use the term 'Personal Computing' to describe computing hardware for personal and entertainment use, in contrast to business use. Software often changes more quickly than hardware, so we'll first focus on consumer hardware and then spend some time discussing the software that was originally shipped with the hardware.
 
 ### Desktop
 
@@ -53,6 +55,9 @@ For this discussion, we'll use the term 'Personal Computing' to describe computi
   * Android
 * Gaming
 * Radio
+* Personal Medical Devices
+* Watch
+* Headphones
 
 ### Hybrid
 
