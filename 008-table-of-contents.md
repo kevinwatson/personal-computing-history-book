@@ -4,6 +4,7 @@
   * Introduction
   * Personal Computing Devices
   * Resources
+* [Part 1 - Hardware]()
 * [Chapter 2 - CPU Architectures](030-chapter-02.md)
   * 8086
   * x86
@@ -15,6 +16,14 @@
   * Resources
 * [Chapter 5 - Apple Silicon](060-chapter-05.md)
   * Resources
-* [Chapter 6 - Summary](070-chapter-06.md)
+* [Part 2 - Operating Systems]()
+* [Chapter 6 - Linux]()
+* [Chapter 7 - Microsoft Windows]()
+* [Chapter 8 - Apple MacOS]()
+* [Part 3 - Nano Computing]()
+* [Part 4 - Health Screening]()
+* [Chapter X - Glucose Monitoring]()
+* [Chapter X - Heartrate Monitoring]()
+* [Chapter 9 - Summary]()
 
 [Next >>](010-chapter-00.md)

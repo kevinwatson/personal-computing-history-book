@@ -58,6 +58,7 @@ For this discussion, we'll use the term 'Personal Computing' to describe computi
 * Personal Medical Devices
 * Watch
 * Headphones
+* Hearing Aids
 
 ### Hybrid
 
