@@ -31,7 +31,7 @@ _Table 5-1_
 | [Thunderbolt controller](https://support.apple.com/guide/mac-help/about-the-thunderbolt-ports-mh35952/mac) | Interface between external devices like a display or external hard drive | No |
 | [T2 security chip](https://support.apple.com/guide/security/hardware-security-overview-secf020d1074/1/web/1) | Securely stores fingerprint data and secure boot options | No |
 | Unified memory architecture (UMA) | High bandwidth and low latency translates to a faster device | Yes |
-| [5 nanometer](https://www.forbes.com/sites/linleygwennap/2020/10/12/apple-moores-law-is-running-out/?sh=7ed55676529a) | The latest process for creating faster CPUs that use less electricity | Yes |
+| [5 nanometer](https://www.forbes.com/sites/linleygwennap/2020/10/12/apple-moores-law-is-running-out/?sh=7ed55676529a) | The latest process for creating faster CPUs that are more efficient | Yes |
 | 16 billion transistors in the CPU | | Yes |
 | 2 types of CPU cores | 4 high-performance and 4 high-efficiency. The high-performance cores are used for CPU-intensive tasks and use more power (and drain a laptop battery faster), while the high-efficiency cores are used for less intensive tasks like browsing the web and use less power (and less battery) | Yes |
 | 8-core GPU | Used for video playback and encoding | No |
@@ -108,24 +108,24 @@ _Table 5-4_
 
 ## M2
 
-The M2 SoC was introduced in ???. It's available for purchase in the 2022 MacBook Air and 2022 MacBook Pro 13-inch laptops. The M2 is the next generation of Apple's SoC with low power consumption, 18% faster CPU, 35% faster GPU, 40% faster neural engine, 50% more memory bandwidth, up to 25% better graphics performance, 18% better all around performance and higher resolution external display support.
+The M2 SoC was introduced on June 6, 2022. It's available for purchase in the 2022 MacBook Air and 2022 MacBook Pro 13-inch laptops. The M2 is the next generation of Apple's SoC with low power consumption, 18% faster CPU, 35% faster GPU, 40% faster neural engine, 50% more memory bandwidth, up to 25% better graphics performance, 18% better all around performance and higher resolution external display support.
 
 _Table 5-5_
 
 | Component/Feature | Description |
 |---|---|
-| Second generation 5 nm technology | |
-| 20 billion transistors | |
-| 100GB/s Unified Memory Bandwidth | |
-| Up to 24GB unified memory | |
+| Second generation 5 nanometer technology | The next vesion of the chip technology that was available in the M1 |
+| 20 billion transistors | M1 x 1.25 |
+| 100GB/s Unified Memory Bandwidth | M1 * 1.5 |
+| Up to 24GB unified memory | Same as the M1 |
 | 8 Core CPU | 4 high-performance and 4 efficiency cores |
-| Up to 10 core GPU | |
-| Secure Enclave | |
-| Neural Engine - 15.8 trillion operations/sec | |
-| Media engine | |
-| Up to 24 B LPDDR5 memory | |
-| ProRes encode and decode | |
-| 6k external display support | |
+| Up to 10 core GPU | 2 more than the M1 |
+| Secure Enclave | Same as the M1 |
+| Neural Engine - 15.8 trillion operations/sec | Same as the M1 |
+| Media engine | Same as the M1 |
+| Up to 24 GB LPDDR5 memory | New to the M2, it helps provide the 100GB/s memory bandwidth |
+| ProRes encode and decode | New to the M2, provides faster faster playback and encoding of 4k and 8k video |
+| 6k external display support | Same as the M1 |
 
 ## Resources
 
@@ -135,5 +135,7 @@ _Table 5-5_
 * https://www.youtube.com/watch?v=q5D55G7Ejs8
 * https://www.apple.com/newsroom/2021/10/introducing-m1-pro-and-m1-max-the-most-powerful-chips-apple-has-ever-built/
 * https://www.apple.com/newsroom/2022/03/apple-unveils-m1-ultra-the-worlds-most-powerful-chip-for-a-personal-computer/
+* https://www.apple.com/newsroom/2022/06/apple-unveils-m2-with-breakthrough-performance-and-capabilities/
+* https://www.apple.com/newsroom/2022/06/13-inch-macbook-pro-with-m2-available-to-order-starting-friday-june-17/
 
 [Next >>](070-chapter-06.md)
