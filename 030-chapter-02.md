@@ -1,8 +1,12 @@
-### Chapter 2 - CPU Architectures
+### Chapter 2 - Computing Architectures
 
-## x86
+## Central Processing Unit (CPU)
 
-## ARM
+### x86
+
+### ARM
+
+## Graphics Processing Unit (GPU)
 
 ## Resources
 

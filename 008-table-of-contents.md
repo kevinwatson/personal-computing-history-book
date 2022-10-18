@@ -5,11 +5,11 @@
   * Personal Computing Devices
   * Resources
 * [Part 1 - Hardware]()
-* [Chapter 2 - CPU Architectures](030-chapter-02.md)
-  * x86
-  * ARM
+* [Chapter 2 - Computing Architectures](030-chapter-02.md)
+  * Central Processing Unit (CPU)
+  * Graphics Processing Unit (GPU)
   * Resources
-* [Chapter 3 - GPU Architectures](040-chapter-03.md)
+* [Chapter 3 - ](040-chapter-03.md)
   * Resources
 * [Chapter 4 - Intel](050-chapter-04.md)
   * Resources
