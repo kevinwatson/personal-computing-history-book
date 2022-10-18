@@ -6,7 +6,6 @@
   * Resources
 * [Part 1 - Hardware]()
 * [Chapter 2 - CPU Architectures](030-chapter-02.md)
-  * 8086
   * x86
   * ARM
   * Resources
