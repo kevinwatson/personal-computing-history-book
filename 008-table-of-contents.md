@@ -15,6 +15,8 @@
 * [Chapter 4 - Intel](050-chapter-04.md)
   * Resources
 * [Chapter 5 - Apple Silicon](060-chapter-05.md)
+  * M1
+  * M2
   * Resources
 * [Part 2 - Operating Systems]()
 * [Chapter 6 - Linux]()
