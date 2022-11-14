@@ -116,7 +116,7 @@ _Table 5-5_
 |---|---|
 | Second generation 5 nanometer technology | The next vesion of the chip technology that was available in the M1 |
 | 20 billion transistors | M1 x 1.25 |
-| 100GB/s Unified Memory Bandwidth | M1 * 1.5 |
+| 100GB/s Unified Memory Bandwidth | M1 x 1.5 |
 | Up to 24GB unified memory | Same as the M1 |
 | 8 Core CPU | 4 high-performance and 4 efficiency cores |
 | Up to 10 core GPU | 2 more than the M1 |
