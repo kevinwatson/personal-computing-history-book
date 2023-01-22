@@ -127,6 +127,36 @@ _Table 5-5_
 | ProRes encode and decode | New to the M2, provides faster faster playback and encoding of 4k and 8k video |
 | 6k external display support | Same as the M1 |
 
+### M2 Pro
+
+The M2 Pro was introduced January 2023 in the Mac Mini and MacBook Pro 14 and 16 inch models. The M2 Pro provides specs that are in some cases double that of the M2 chip.
+
+_Table 5-6_
+
+| Component/Feature | Description |
+|---|---|
+| 40 billion transistors | Double the number of the M2 |
+| 200GB/s memory bandwidth | Double the bandwidth of the M2 |
+| Up to 32GB unified memory | 8GB more than the M2 |
+| Up to 12 core CPU | Two more cores than are available in the M2 |
+| Up to 19 core GPU | Nine more than the M2 |
+| 16 core Neural Engine | Same as the M1 |
+
+### M2 Max
+
+The M2 Max was introduced January 2023 in the MacBook Pro 14 and 16 inch models. It provides everything the M2 Pro provides plus additional transistors, memory, and GPUs.
+
+_Table 5-7_
+
+| Component/Feature | Description |
+|---|---|
+| 67 billion transistors | More than 3x the number in the M2 |
+| 200GB/s memory bandwidth | Double the bandwidth of the M2 |
+| Up to 96GB unified memory | Three times more than the max available in the M2 Pro |
+| 12 core CPU | Two more cores than are available in the M2 |
+| Up to 38 core GPU | Double the maximum available in the M2 Pro |
+| 16 core Neural Engine | Same as the M1 |
+
 ## Resources
 
 * https://en.wikipedia.org/wiki/System_on_a_chip
@@ -137,5 +167,7 @@ _Table 5-5_
 * https://www.apple.com/newsroom/2022/03/apple-unveils-m1-ultra-the-worlds-most-powerful-chip-for-a-personal-computer/
 * https://www.apple.com/newsroom/2022/06/apple-unveils-m2-with-breakthrough-performance-and-capabilities/
 * https://www.apple.com/newsroom/2022/06/13-inch-macbook-pro-with-m2-available-to-order-starting-friday-june-17/
+* https://www.apple.com/newsroom/2023/01/apple-unveils-macbook-pro-featuring-m2-pro-and-m2-max/
+* https://www.apple.com/macbook-pro-14-and-16/
 
 [Next >>](070-chapter-06.md)
