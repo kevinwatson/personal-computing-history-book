@@ -157,6 +157,64 @@ _Table 5-7_
 | Up to 38 core GPU | Double the maximum available in the M2 Pro |
 | 16 core Neural Engine | Same as the M1 |
 
+### M3
+
+The M3 was introduced in 2023 and is an option in the 2023 iMac and MacBook Pro.
+
+_Table 5-8_
+
+| Component/Feature | Description |
+|---|---|
+| 8 core CPU | 4 performance and 4 efficiency cores |
+| 8 core GPU | Features dynamic caching which optimizes memory usage per task |
+| 120GB/s memory bandwith | 1.2 times faster than the M2 |
+| 16 core Neural Engine | Capable of 18 trillion operations/second |
+| 8 memory controllers | Each controller can access up to 4GB of memory |
+
+### M3 Pro
+
+The M3 Pro was introduced in 2023 at the same time as the M3 and is an option in the 2023 iMac and MacBook Pro.
+
+_Table 5-9_
+
+| Component/Feature | Description |
+|---|---|
+| 11 or 12 core CPU | 5 or 6 performance and 6 efficiency cores |
+| 14 or 18 core GPU | Features dynamic caching which optimizes memory usage per task |
+| 120GB/s memory bandwith | 1.2 times faster than the M2 |
+| 16 core Neural Engine | Capable of 18 trillion operations/second |
+| 12 memory controllers | Each controller can access up to 4GB of memory |
+
+### M3 Max
+
+The M3 Pro was introduced in 2023 at the same time as the M3 and is an option in the 2023 iMac and MacBook Pro.
+
+_Table 5-10_
+
+| Component/Feature | Description |
+|---|---|
+| 14 or 16 core CPU | 10 or 12 performance and 4 efficiency cores |
+| 40 core GPU | Features dynamic caching which optimizes memory usage per task |
+| 120GB/s memory bandwith | 1.2 times faster than the M2 |
+| 16 core Neural Engine | Capable of 18 trillion operations/second |
+| 32 memory controllers | Each controller can access up to 4GB of memory |
+
+### M4
+
+The M4 was introduced on May 7, 2024 included in the 2024 iPad Pro. The 3 nanometer process and other efficiency improvements means that the M4 can provide the same performance as the M2 but with half the power.
+
+_Table 5-11_
+
+| Component/Feature | Description |
+|---|---|
+| 3 nanometer | The latest process for creating faster CPUs that are more efficient |
+| 9 or 10 core CPU | 1.5 times faster than the M2, 4 performance and 6 efficiency cores |
+| 10 core GPU | 4 times faster than the M2 |
+| 120GB/s memory bandwith | 1.2 times faster than the M2 |
+| 16 core Neural Engine | |
+| 38 trillion operations/second | |
+| 28 billion transistors | |
+
 ## Resources
 
 * https://en.wikipedia.org/wiki/System_on_a_chip
@@ -169,5 +227,7 @@ _Table 5-7_
 * https://www.apple.com/newsroom/2022/06/13-inch-macbook-pro-with-m2-available-to-order-starting-friday-june-17/
 * https://www.apple.com/newsroom/2023/01/apple-unveils-macbook-pro-featuring-m2-pro-and-m2-max/
 * https://www.apple.com/macbook-pro-14-and-16/
+* https://www.apple.com/ipad-pro/
+* https://en.wikipedia.org/wiki/Apple_M3
 
 [Next >>](070-chapter-06.md)
